@@ -2,10 +2,10 @@
   "name": "bookshelf",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://AndreiGutnik.github.io/BookShelf",
+  "homepage": "https://GoitStudentsWorks.github.io/js_85_AndreiGutnik",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /BookShelf/"
+    "build": "parcel build src/*.html --public-url /js_85_AndreiGutnik/"
   },
   "repository": {
     "type": "git",
